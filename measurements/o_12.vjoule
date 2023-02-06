@@ -1,0 +1,3 @@
+CGroup  ;         CPU;         GPU;         RAM
+Global  ;   0.181335J;          0J;   0.025513J
+Process ;   0.007162J;          0J;   0.000749J
