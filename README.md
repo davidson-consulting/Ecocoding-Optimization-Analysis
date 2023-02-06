@@ -38,7 +38,7 @@ Options:
 ### About
 
 * **Iteration**: are computed inside the code each time a triplet is evaluated to solve the problem 
-* **Energy**: are analyzed by vjoule tool and expressed by a number of joules
+* **Energy**: are analyzed by [vjoule](https://github.com/davidson-consulting/vjoule) tool and expressed by a number of joules
 * **Time**: with the well know unix tool time (in seconds)
 
 **Here we compare the seraching for this set of sum: 12, 100, 1000, 10000, 100000, 1000000.**
