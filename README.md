@@ -89,6 +89,6 @@ Normally as a developper we do that only when we have a bad human perception or 
 Since we admit that a computer have an optimized usage of his energy if we tend to use the his full power: by saving energy we can use it for other tasks.
 
 **So we can dream about**:
-* developpers that we have time to track invisible gains *(and managers allow it)*
-* intergrating some mathematican into the team *(one of the main weapon to create big optimizations)*
-* runing our programs with same efficiency with less computers/pods *(maybe the best KPI for a eco-coding long term effort)*
+* **developpers that we have time to track invisible gains** *(and managers allow it)*
+* **intergrating some mathematican into the team** *(one of the main weapon to create big optimizations)*
+* **runing our programs with same efficiency with less computers/pods** *(maybe the best KPI for a eco-coding long term effort)*
