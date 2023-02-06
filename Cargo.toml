@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Davidson <twister@davidson.fr>
+# SPDX-License-Identifier: CC0-1.0
+
 [package]
 name = "find_pythagorean_triple_by_sum"
 description = "Find pythagorean triplets for which members a + b + c corresponding to a given sum (with a < b < c)"
@@ -9,9 +12,9 @@ name = "fptbs"
 path = "src/lib.rs"
 
 [profile.release]
-#strip = true
-#lto = true
-#codegen-units = 1
+strip = true
+lto = true
+codegen-units = 1
 
 [dependencies]
 prime-factor = "0.4.3"
