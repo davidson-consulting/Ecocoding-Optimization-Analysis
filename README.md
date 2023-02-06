@@ -71,7 +71,7 @@ So iteration count could be the main driver of comparison.
 
 In this optimized version we use again the Euler formula but this time by using prime factors and **we use a library** to compute they.
 
-That's a change were instrumenting the code to check performances is not realy correct: **so we need tools** like time or vjoule.
+That's a change were instrumenting the code to check performances is not realy correct: **so we need tools** like `time`, `vjoule` or others.
 
 **Game changer of optimized mode**
 * **Iteration**: **above the sum 100 we use only 2,2%** of iterations of the iterative search *(not really relevant)*
