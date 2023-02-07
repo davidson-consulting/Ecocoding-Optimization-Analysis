@@ -91,4 +91,4 @@ Since we admit that a computer have an optimized usage of his energy if we tend 
 **So we can dream about**:
 * **developpers that have time to track real, yet often unnoticed gains** *(and managers allow it)*
 * **intergrating some mathematican into the team** *(one of the main weapon to create big optimizations)*
-* **running our programs with same efficiency with less computers/pods** *(maybe the best KPI for a eco-coding long term effort)*
+* **Writing programs providing a similar quality of service with less computer/pods**  *(maybe the best KPI for a eco-coding long term effort)*
