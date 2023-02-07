@@ -17,7 +17,7 @@ Use cargo command `cargo build --release`
 
 ## Executing
 
-Use embeded help `./target/release/find_pythagorean_triple_by_sum -h`
+Use embedded help `./target/release/find_pythagorean_triple_by_sum -h`
 
 ```
 Find pythagorean triplets for which members a + b + c corresponding to a given sum (with a < b < c)
@@ -37,7 +37,7 @@ Options:
 
 ### About
 
-* **Iteration**: are computed inside the code each time a triplet is evaluated to solve the problem 
+* **Iteration**: the number of triplet evaluated to solve the problem 
 * **Energy**: are analyzed by [vjoule](https://github.com/davidson-consulting/vjoule) tool and expressed by a number of joules
 * **Time**: with the well know unix tool time (in seconds)
 
@@ -86,9 +86,9 @@ Normally as a developper we do that only when we have a bad human perception or 
 
 **Here we can see that we can save a lot of energy (repeating task) even our human perception are not in alerted.**
 
-Since we admit that a computer have an optimized usage of his energy if we tend to use the his full power: by saving energy we can use it for other tasks.
+Since we admit that a computer have an optimized usage of his energy if we tend to use its full power: by saving energy we can use it for other tasks.
 
 **So we can dream about**:
-* **developpers that we have time to track invisible gains** *(and managers allow it)*
+* **developpers that have time to track real, yet often unnoticed gains** *(and managers allow it)*
 * **intergrating some mathematican into the team** *(one of the main weapon to create big optimizations)*
-* **runing our programs with same efficiency with less computers/pods** *(maybe the best KPI for a eco-coding long term effort)*
+* **running our programs with same efficiency with less computers/pods** *(maybe the best KPI for a eco-coding long term effort)*
