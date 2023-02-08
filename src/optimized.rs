@@ -19,7 +19,7 @@ pub fn find(sum: u64) -> Result {
         .collect::<Vec<_>>()
         .iter()
     {
-        let k = k_factors.iter().fold(1, |acc, &x| acc * x) as u64;
+        let k = k_factors.clone().into_iter().product::<u128>() as u64;
 
         let mut r_factors = p_factors.clone();
         for f in k_factors {
@@ -37,7 +37,7 @@ pub fn find(sum: u64) -> Result {
         {
             result.add_iteration();
 
-            let m = m_factors.iter().fold(1, |acc, &x| acc * x) as u64;
+            let m = m_factors.clone().into_iter().product::<u128>() as u64;
             let mut n = ((sum as f64 / 2.0) / k as f64 / m as f64) as u64;
 
             if n >= 2 * m || m >= n {
