@@ -43,7 +43,7 @@ pub fn find(sum: u64) -> Result {
             if n >= 2 * m || m >= n {
                 continue;
             }
-            n = n - m;
+            n -= m;
 
             result.add_triplet(Triplet::new(vec![
                 k * (m * m - n * n),

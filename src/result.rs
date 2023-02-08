@@ -64,7 +64,7 @@ struct Triplets<'a>(pub &'a Vec<Triplet>);
 impl<'a> fmt::Display for Triplets<'a> {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         self.0.iter().fold(Ok(()), |result, triplet| {
-            result.and_then(|_| writeln!(f, "  {}", triplet))
+            result.and_then(|_| writeln!(f, "  {triplet}"))
         })
     }
 }
