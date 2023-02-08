@@ -86,7 +86,7 @@ Normally as a developper we do that only when we have a bad human perception or 
 
 **Here we can see that we can save a lot of energy (repeating task) even our human perception are not in alerted.**
 
-Since we admit that a computer have an optimized usage of his energy if we tend to use its full power: by saving energy we can use it for other tasks.
+Since we admit that a computer have an optimized usage of his energy if we tend to use its full power: by saving energy we can extend its livecycle.
 
 **So we can dream about**:
 * **developpers that have time to track real, yet often unnoticed gains** *(and managers allow it)*
